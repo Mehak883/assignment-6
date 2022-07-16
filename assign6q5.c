@@ -9,6 +9,6 @@ int main()
     {
         sum = sum + (i * i * i);
     }
-    printf("sum of squares of first N natural numbers : %d ", sum);
+    printf("sum of cube of first N natural numbers : %d ", sum);
     return 0;
 }
